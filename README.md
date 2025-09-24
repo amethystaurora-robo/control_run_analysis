@@ -1,6 +1,6 @@
 This repository represents the second deliverable of my PhD project on climate tipping points with rare event sampling. For this project, I have used PLASIM to conduct a 1000 year 'control' run, which will then be compared to PLASIM runs with rare event sampling.
 
-In this 1000-year simulation, I demonstrate that PLASIM takes some time to reach the "attractor": the phase space where variables maintain equilibrium. The variables (in this case, near-sea surface temperature) in the first 3 years of the simulation are significantly below the average trend.
+In this 1000-year simulation, I demonstrate that PLASIM takes some time to reach the "attractor": the subset of phase space where trajectories settle. The variables (in this case, near-sea surface temperature) in the first 3 years of the simulation are significantly below the average trend.
 <p>
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/sheet_averaged_unfiltered.png">
 </p>
