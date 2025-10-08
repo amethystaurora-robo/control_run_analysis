@@ -32,3 +32,4 @@ In addition to near sea surface temperature, I am also looking at the strength o
 </p>
 
 #TODO: Make this a line graph, confirm whether it is in Svedrups and add label, do/add PDF analysis
+#Do the same for 100-year run to confirm what is going on
