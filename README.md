@@ -31,5 +31,4 @@ In addition to near sea surface temperature, I am also looking at the strength o
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/AMOC_strength.png">
 </p>
 
-#TODO: Make this a line graph, confirm whether it is in Svedrups and add label, do/add PDF analysis
-#Do the same for 100-year run to confirm what is going on
+This is an anomalous run, which I am now investigating.
