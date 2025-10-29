@@ -1,3 +1,5 @@
+#I am going to completely refactor this repository. Sorting time series into bins is confusing, so I'll explain the transient in one part then move. Change the time series to be a real time series. Then need tas and AMOC data from the 1000-year run to investigate again -look at only CDO in case there was something wrong converting to a df in python. Then look at the 100-year runs and see if we have the same variable. Finally create a graph for efficiency analysis of runs between core values. And then run the 1000-years again and try another analysis -PDF is interesting. 
+
 This repository represents the second deliverable of my PhD on climate tipping points with rare event sampling. For this project, I have used PLASIM to conduct a 1000 year 'control' run, which will then be compared to PLASIM runs with rare event sampling.
 
 In this 1000-year climate simulation, I demonstrate that PLASIM takes some time to reach the "attractor": the subset of phase space where trajectories settle. The variables (in this case, near-sea surface temperature) in the first 3 years of the simulation are significantly below the average trend.
