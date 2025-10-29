@@ -1,4 +1,8 @@
-#I am going to completely refactor this repository. Change the time series to be a real time series. Then need tas and AMOC data from the 1000-year run to investigate again -look at only CDO in case there was something wrong converting to a df in python. (It's something wrong in the simulation, nothing wrong in Python). Also tas isn't anomalous-it seems fine. Then look at the 100-year runs and see if we have the same variable-no, but it seems it is still transienting so need to run some longer simulations. Finally create a graph for efficiency analysis of runs between core values. And then run the 1000-years again and try another analysis -PDF is interesting. 
+#I am going to completely refactor this repository. 
+a) Change the time series to be a real time series. 
+b) Tas is not anomalous, only AMOC values are. It doesn't seem to be anything wrong with code, as diagnostic files print these very low values. Need to run a longer (200 years at least) simulation to check if the values still persist
+c) 16 cores seems to be the most efficient processing for this
+d) Need to do final PDF analysis of 1000-year run, see if AMOC variable is still there
 
 This repository represents the second deliverable of my PhD on climate tipping points with rare event sampling. For this project, I have used PLASIM to conduct a 1000 year 'control' run, which will then be compared to PLASIM runs with rare event sampling.
 
