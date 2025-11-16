@@ -1,9 +1,3 @@
-#I am going to completely refactor this repository. 
-a) Change the time series to be a real time series. 
-b) Tas is not anomalous, only AMOC values are. It doesn't seem to be anything wrong with code, as diagnostic files print these very low values. Need to run a longer (200 years at least) simulation to check if the values still persist
-c) 16 cores seems to be the most efficient processing for this
-d) Need to do final PDF analysis of 1000-year run, see if AMOC variable is still there
-
 This repository represents the second deliverable of my PhD on climate tipping points with rare event sampling. For this project, I have used PLASIM to conduct a 1000 year 'control' run, which will then be compared to PLASIM runs with rare event sampling.
 
 In this 1000-year climate simulation, I demonstrate that PLASIM takes some time to reach the "attractor": the subset of phase space where trajectories settle. The variables (in this case, near-sea surface temperature) in the first 3 years of the simulation are significantly below the average trend.
@@ -24,3 +18,9 @@ In addition to near sea surface temperature, I am also looking at the strength o
 </p>
 
 This is an anomalous run, which I am now investigating.
+
+#I am going to completely refactor this repository. 
+a) Change the time series to be a real time series. 
+b) Tas is not anomalous, only AMOC values are. It doesn't seem to be anything wrong with code, as diagnostic files print these very low values. Need to run a longer (200 years at least) simulation to check if the values still persist
+c) 16 cores seems to be the most efficient processing for this
+d) Need to do final PDF analysis of 1000-year run, see if AMOC variable is still there
