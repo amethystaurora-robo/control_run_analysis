@@ -14,10 +14,13 @@ The same data is shown below, filtering out the years the simulator takes to rea
 In addition to near sea surface temperature, I am also looking at the strength of the Atlantic Meridional Overturning Circulation (AMOC), particularly where North Atlantic Deep Water (NADW) is formed. In the cold Labrador Sea, warm surface water from the tropics is cooled and sinks, moving southward. The overturning in this area is measured as the AMOC strength, and the value is typically between 15-20 Sverdrups. In the 1000-year control run, we can see the same trend where the measurements begin at ~35 Sverdrups, then reach an attractor region. However, it does seem anomalous that in this run, the AMOC shows weakening in year 100 already. 
 
 <p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/AMOC_strength.png">
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/simulation_transient.png">
 </p>
 
-This is an anomalous run, which I am now investigating.
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/simulation_notransient.png">
+</p>
+
 
 #I am going to completely refactor this repository. 
 a) Change the time series to be a real time series. 
