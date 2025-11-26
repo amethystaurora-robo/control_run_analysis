@@ -18,3 +18,14 @@ Finally, the probability distribution of AMOC indices is shown after cutting the
 <p>
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/PDF_amoc_cut.png">
 </p>
+
+Additionally, a time series and distribution of values is shown for globally averaged sea surface temperature:
+
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/lineplot_sst.png">
+</p>
+
+
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/histplot_sst.png">
+</p>
