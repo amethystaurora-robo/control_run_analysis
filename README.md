@@ -23,7 +23,19 @@ Because of a mistake in parallelization, the above graphs were inaccurate for th
 
 The auto-correlation compares AMOC indices between present-day and lag-time values. Depending on the lag comparison, different trends emerge. Below, auto-correlation decays to zero over a 7-month time interval.
 
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_1200slice.png">
+</p>
+
 Seasonal variation is shown in the auto-correlation plot below, where months across years are strongly correlated with each other.
 
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_120slice.png">
+</p>
+
 A slight downward trend in auto-correlation can also be seen when the function is computed over slices of 1000 timepoints (~83 years)
+
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_12slice.png">
+</p>
 
