@@ -21,6 +21,10 @@ Below, the probability distribution of AMOC indices is shown after cutting the t
 
 Because of a mistake in parallelization, the above graphs were inaccurate for the output of Plasim. Below, another control run was initiated which fixed the parallelization problems. 1000 years were required for spin-up of the model, after which time the timeseries from Years 1001-2000 is shown.
 
+<p>
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/f_controlrun_timeseries.png">
+</p>
+
 The auto-correlation compares AMOC indices between present-day and lag-time values. Depending on the lag comparison, different trends emerge. Below, auto-correlation decays to zero over a 7-month time interval.
 
 <p>
