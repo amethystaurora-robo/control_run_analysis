@@ -19,13 +19,11 @@ Below, the probability distribution of AMOC indices is shown after cutting the t
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/PDF_amoc_cut.png">
 </p>
 
-Additionally, a time series and distribution of values is shown for globally averaged sea surface temperature (taken 5m below sea surface):
+Because of a mistake in parallelization, the above graphs were inaccurate for the output of Plasim. Below, another control run was initiated which fixed the parallelization problems. 1000 years were required for spin-up of the model, after which time the timeseries from Years 1001-2000 is shown.
 
-<p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/lineplot_sst.png">
-</p>
+The auto-correlation compares AMOC indices between present-day and lag-time values. Depending on the lag comparison, different trends emerge. Below, auto-correlation decays to zero over a 7-month time interval.
 
+Seasonal variation is shown in the auto-correlation plot below, where months across years are strongly correlated with each other.
 
-<p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/histplot_sst.png">
-</p>
+A slight downward trend in auto-correlation can also be seen when the function is computed over slices of 1000 timepoints (~83 years)
+
