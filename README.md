@@ -29,21 +29,9 @@ Below, a control run is initialized after spinning up the model for 1000 years. 
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/f_controlrun_timeseries.png">
 </p>
 
-The auto-correlation compares AMOC indices between present-day and lag-time values. Depending on the lag comparison, different trends emerge. Below, auto-correlation decays to zero over a 7-month time interval.
+The auto-correlation compares AMOC indices between present-day and lag-time values. Controlling for seasonal variation by taking yearly averages produces a smooth auto-correlation function, which has been averaged across ten windows of 100-year slices in the control run.
 
 <p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_1200slice.png">
-</p>
-
-Seasonal variation is shown in the auto-correlation plot below, where months across years are strongly correlated with each other.
-
-<p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_120slice.png">
-</p>
-
-A slight downward trend in auto-correlation can also be seen when the function is computed over slices of 1000 timepoints (~83 years)
-
-<p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_12slice.png">
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc_control_10slice.png">
 </p>
 
