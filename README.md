@@ -17,6 +17,6 @@ The distribution of values for the AMOC Index is shown below.
 The auto-correlation compares AMOC indices between present-day and lag-time values. Controlling for seasonal variation by taking yearly averages produces a smooth auto-correlation function, which has been averaged across ten windows of 100-year slices in the control run.
 
 <p>
-  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/acfunc/acfunc_control_10slice.png">
+  <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/ac_function/acfunc_control_10slice.png">
 </p>
 
