@@ -20,3 +20,5 @@ The auto-correlation compares AMOC indices between present-day and lag-time valu
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/ac_function/acfunc_control_10slice.png">
 </p>
 
+The next step of this analysis is adding a rare event algorithm at regular sampling intervals to force the system towards a collapsed state.
+
