@@ -1,6 +1,6 @@
 This repo uses the intermediate-complexity coupled oceanic-atmosphere model, Planet Simulator (PlaSim), to simulate 1000 years of oceanic activity.
 
-In this analysis I look at the strength of the Atlantic Meridional Overturning Circulation (AMOC), between 66 and 46 degrees North. Here part of the North Atlantic Deep Water (NADW) is formed, by warm, salty surface water from the tropics which cools and sinks. The overturning of this water, measured in Sverdrups, is a state variable which can indicate weakening or transitions of the AMOC.
+In this analysis I look at the strength of the Atlantic Meridional Overturning Circulation (AMOC), between 66 and 46 degrees North. Here part of the North Atlantic Deep Water (NADW) is formed by warm, salty surface water from the tropics which cools and sinks. The overturning of this water, measured in Sverdrups, is a state variable which can indicate weakening or transitions of the AMOC.
 
 A control run is initialized with a spin-up of 1000 years to allow the state variables to reach equilibrium. The timeseries from Years 1001-2000 is shown below.
 
