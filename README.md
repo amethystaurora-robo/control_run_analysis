@@ -19,5 +19,5 @@ The auto-correlation compares AMOC indices between each timepoint and itself at 
   <img src="https://github.com/amethystaurora-robo/control_run_analysis/blob/main/ac_function/acfunc_control_10slice.png">
 </p>
 
-The next step of this analysis is adding a rare event algorithm at regular sampling intervals to force the system towards a collapsed state.
+The next step of this analysis is adding a rare event algorithm at regular sampling intervals to force the system towards a collapsed state. The research on the next step will be held in a separate repository. 
 
